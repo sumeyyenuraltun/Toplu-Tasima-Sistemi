@@ -1,2 +1,1 @@
-Projede ne amaçlandığını ve ne yapıldığını görmek için proje dokümanına ve  proje raporuna ulaşabilirsiniz. Raporda uygulama ile ilgili görseller de bulunmaktadır.
-
+Bu proje, nesne yönelimli programlama ve SOLID prensiplerine uygun şekilde geliştirilmeye çalışılmıştır. Projede neyin amaçlandığını ve nelerin yapıldığını görmek için proje dokümanına ve proje raporuna göz atabilirsiniz. Raporda, uygulamaya ait görseller ve kullanılan kütüphanelerle ilgili bilgiler yer almaktadır.
